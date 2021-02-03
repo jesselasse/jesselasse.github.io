@@ -27,7 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[isimage](./o-os 1.png)
+
+![isimage](o-os 1.png)
 
 ### Jekyll Themes
 
