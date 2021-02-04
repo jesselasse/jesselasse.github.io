@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![isimage](o-os 1.png)
+![Image](/image&file/旋转小猫.jpg)
 
 ### Jekyll Themes
 
